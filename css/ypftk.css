@@ -2,6 +2,6 @@
 .left-fold {
 	width: 40%;
     height: 100vh;
-    background: #CDCDCD url('img/cheers.jpg') top center no-repeat;
+    background: #CDCDCD url('../img/cheers.jpg') top center no-repeat;
   	background-size: cover;
 }
