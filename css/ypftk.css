@@ -8,3 +8,8 @@ body{
     background: #CDCDCD url('../img/cheers.jpg') top center no-repeat;
   	background-size: cover;
 }
+
+.left-fold {
+	width: 60%;
+    height: 100vh;
+}
