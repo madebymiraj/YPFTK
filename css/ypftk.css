@@ -14,7 +14,6 @@ body{
 .right-fold {
 	width: 60%;
     height: 100vh;
-  	margin-top: 215px;
 }
 
 .header {
@@ -22,4 +21,8 @@ body{
 	position: fixed;
   	background: #0B1F2C;
   	width: 60%;
+}
+
+section.content {
+  	margin-top: 215px;
 }
