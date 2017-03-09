@@ -1,5 +1,6 @@
 body{
   background: #0B1F2C;
+  color: #FFFFFF;
 }
 
 .left-fold {
@@ -9,7 +10,7 @@ body{
   	background-size: cover;
 }
 
-.left-fold {
+.right-fold {
 	width: 60%;
     height: 100vh;
 }
