@@ -1,6 +1,9 @@
+<link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,900" rel="stylesheet">
+
 body{
   background: #0B1F2C;
   color: #FFFFFF;
+  font-family: 'Lato', sans-serif;
 }
 
 .left-fold {
