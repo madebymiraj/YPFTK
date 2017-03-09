@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="296px" height="129px" viewBox="0 0 296 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FBDA61" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-2">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C96DD8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#B4ED50" offset="0%"></stop>
+            <stop stop-color="#429321" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="100%" x2="29.0457589%" y2="28.0552455%" id="linearGradient-4">
+            <stop stop-color="#EE3763" offset="0%"></stop>
+            <stop stop-color="#F3734C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#F3734C" offset="0%"></stop>
+            <stop stop-color="#EE3763" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Group">
+                <text id="Young-Professionals" font-family="ConcertOne-Regular, Concert One" font-size="48" font-weight="normal" line-spacing="46" fill="#FFFFFF">
+                    <tspan x="86.9140625" y="57">Young</tspan>
+                    <tspan x="11" y="103">Professionals</tspan>
+                </text>
+                <text id="FOR-THE-KIDS!" font-family="OpenSans, Open Sans" font-size="16" font-weight="normal" letter-spacing="2.28571415" fill="#FFD200">
+                    <tspan x="80" y="124">FOR THE KIDS</tspan>
+                    <tspan x="210.631695" y="124" letter-spacing="2.03174591">!</tspan>
+                </text>
+                <path d="M69.5,118.5 L29.5,118.5" id="Line" stroke="#FFD200" stroke-linecap="square"></path>
+                <path d="M267.5,118.5 L227.5,118.5" id="Line" stroke="#FFD200" stroke-linecap="square"></path>
+                <path d="M68.9798481,24.2965735 C73.0589496,19.8795813 61.7708637,29.9977454 68.8900043,34.929386 C76.009145,39.8610266 65.2464496,48.6251868 69.0833637,44.8746985" id="Path-2" stroke="url(#linearGradient-1)" stroke-width="2" transform="translate(68.930819, 34.494949) rotate(-47.000000) translate(-68.930819, -34.494949) "></path>
+                <path d="M283.215082,40.5656779 C287.294183,35.1717313 276.006097,47.5278403 283.125238,53.5502658 C290.244379,59.5726913 279.481683,70.2753165 283.318597,65.6952917" id="Path-2" stroke="url(#linearGradient-2)" stroke-width="2" transform="translate(283.166053, 53.019739) scale(-1, 1) rotate(-54.000000) translate(-283.166053, -53.019739) "></path>
+                <polygon id="Rectangle" fill="url(#linearGradient-3)" transform="translate(238.021854, 25.563732) rotate(40.000000) translate(-238.021854, -25.563732) " points="236.315681 17.1216304 239.728027 11.3630453 237.713712 39.764418 236.764022 34.1290898"></polygon>
+                <polygon id="Rectangle" fill="url(#linearGradient-2)" transform="translate(69.952111, 10.030257) rotate(-32.000000) translate(-69.952111, -10.030257) " points="68.6278948 -0.969743479 71.2763264 -0.969743479 69.9521106 21.0302565 69.0693001 21.0302565"></polygon>
+                <polygon id="Rectangle" fill="url(#linearGradient-3)" transform="translate(10.937998, 51.212041) rotate(-67.000000) translate(-10.937998, -51.212041) " points="10.0561181 44.3733257 13.0172898 40.212041 10.8532144 62.212041 8.85870536 59.8350776"></polygon>
+                <circle id="Oval" fill="url(#linearGradient-4)" cx="53.5" cy="51.5" r="3.5"></circle>
+                <polygon id="Star" fill="url(#linearGradient-1)" transform="translate(250.500000, 44.476547) rotate(17.000000) translate(-250.500000, -44.476547) " points="250.5 47.3296531 247.683816 48.8102089 248.221659 45.6743415 245.943318 43.4535078 249.091908 42.9959909 250.5 40.1428845 251.908092 42.9959909 255.056682 43.4535078 252.778341 45.6743415 253.316184 48.8102089"></polygon>
+                <path d="M225.293023,51.192618 C225.293023,51.192618 227.641269,48.4343364 224.771116,51.8172154 C221.900962,55.2000944 216.709455,46.2744903 224.984756,45.4732882 C233.127803,44.6848909 230.477927,62.6049616 219.800835,55.0938129 C219.627423,54.9718213 221.458045,56.1286925 221.280171,55.9922283" id="Path-3" stroke="url(#linearGradient-5)" transform="translate(224.771116, 51.192618) rotate(22.000000) translate(-224.771116, -51.192618) "></path>
+                <path d="M35.2032149,38.8914966 C35.2032149,38.8914966 36.7147813,37.1159897 34.8672626,39.2935502 C33.0197438,41.4711106 29.6779685,35.7256959 35.0047832,35.2099618 C40.2464655,34.7024701 38.5407394,46.2376265 31.6678907,41.4026973 C31.556266,41.3241712 32.7346379,42.0688496 32.62014,41.9810075" id="Path-3" stroke="url(#linearGradient-2)" transform="translate(34.867263, 38.891497) rotate(-43.000000) translate(-34.867263, -38.891497) "></path>
+                <path d="M214.631038,17.6596356 C215.232054,16.1141652 216.205934,16.1127252 216.807511,17.6596356 L218.494072,21.996508 C218.89459,23.0264118 218.332719,23.8613138 217.213355,23.8613138 L214.225193,23.8613138 C213.117355,23.8613138 212.542272,23.0307474 212.944477,21.996508 L214.631038,17.6596356 Z" id="Triangle" fill="url(#linearGradient-1)" transform="translate(215.719274, 19.361314) rotate(18.000000) translate(-215.719274, -19.361314) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
